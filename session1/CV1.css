@@ -1,0 +1,26 @@
+h1{
+	color:red;
+	background: blue;
+}
+img{
+	width: 100px;
+	border-image: 1px; 
+}
+.ten{
+	color:green;
+}
+.namsinh{
+	color:green;
+
+}
+.nghenghiep{
+	color:green;
+}
+.gioitinh{
+	color:green;
+
+}
+.quoctich{
+	color:green;
+
+}
