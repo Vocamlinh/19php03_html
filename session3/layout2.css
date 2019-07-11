@@ -1,0 +1,69 @@
+#header{
+	border:1px solid red;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	background:yellow;
+}
+#center{
+	border:1px solid red;
+	height: 300px;
+
+}
+#footer{
+	border:1px solid red;
+	height:100px;
+	text-align: center;
+	line-height: 100px;
+	background: yellow;
+}
+#leftpane{
+	border: 1px solid black;
+	float:left;
+	height: 300px;
+	width: 25%;
+	line-height:300px;
+	text-align: center;
+	background: green;
+}
+#rightpane{
+	border: 1px solid black;
+	float:right;
+	height:300px;
+	width: 24.5%;
+	line-height:300px;
+	text-align: center;
+	background: green;
+}
+#body{
+	border:1px solid black;
+	float:left;
+	height: 300px;
+	width:50%;
+}
+#prebody{
+	border:1px solid blue;
+	height:50px;
+	width:100%;
+	line-height:50px;
+	text-align: center;
+	background:red;
+}
+#centerbody{
+	border:1px solid blue;
+	height:200px;
+	width:100%;
+	line-height:200px;
+	text-align: center;
+	background:red;
+
+}
+#postbody{
+	border:1px solid blue;
+	height:45.5px;
+	width:100%;
+	line-height:45.5px;
+	text-align: center;
+	background:red;
+
+}
