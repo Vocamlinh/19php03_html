@@ -1,0 +1,46 @@
+img{
+	float:left;
+	height: 150px;
+	width: 100px;
+}
+h1{
+	color:yellow;
+	text-shadow: 5px 4px 4px red;
+	text-align: center;
+}
+#c1{
+	color:green;
+	text-align: center;
+}
+h2{
+	padding-top:80px;
+	margin: 20px;
+}
+#c3{
+	text-indent: 20px;
+}
+#c4{
+	text-indent: 20px;
+}
+#c5{
+	float:right;
+}
+@media  screen and (max-width: 600px) {
+	body {
+		background-color:white;
+	}
+	#header{
+		width: 100%;
+	}
+	#center{
+		width:100%;
+	}
+	#footer{
+		width:100%;
+	}
+}
+@media  screen and (max-width: 480px) {
+	body {
+		background-color:white;
+	}
+}
