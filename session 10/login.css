@@ -1,0 +1,21 @@
+#container{
+	background-color:blue;
+}
+#login {
+	background-image: url(cute-background-hd_115830959 (1).jpg);
+    border: 1px solid black;
+    width:30%;
+    height: auto;
+
+
+}
+#register{
+	width: 30%;
+	height: auto;
+	float:left;
+
+	border: 1px solid black;
+}
+
+
+<p id="p2"><input type="image" name="facebook" src="anh facebook.png"></p>
